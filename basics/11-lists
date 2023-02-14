@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -b |nl -s '. ' -w 1
-
+ls -la
