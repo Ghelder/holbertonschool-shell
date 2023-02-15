@@ -9,3 +9,4 @@
 ## Adding execution permissions to the whole file hello.
 ## Adding permissions only to the group of others.
 ## Setting a file mode to hello.
+## Setting a file mode to hello=olleh.
