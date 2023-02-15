@@ -4,3 +4,4 @@
 ## prints the groups where the user is located.
 ## Change the name of the owner of a file. 
 ## Creates an empty file hello.
+## Add execution permission to hello.
