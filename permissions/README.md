@@ -10,3 +10,4 @@
 ## Adding permissions only to the group of others.
 ## Setting a file mode to hello.
 ## Setting a file mode to hello=olleh.
+## Adding execution permissions to the current directory recursively.
