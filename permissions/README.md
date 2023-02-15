@@ -7,3 +7,4 @@
 ## Add execution permission to hello.
 ## Adding execution permissions to hello.
 ## Adding execution permissions to the whole file hello.
+## Adding permissions only to the group of others.
