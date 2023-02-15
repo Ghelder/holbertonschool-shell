@@ -6,3 +6,4 @@
 ## Creates an empty file hello.
 ## Add execution permission to hello.
 ## Adding execution permissions to hello.
+## Adding execution permissions to the whole file hello.
