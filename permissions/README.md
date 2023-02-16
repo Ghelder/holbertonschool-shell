@@ -11,3 +11,4 @@
 ## Setting a file mode to hello.
 ## Setting a file mode to hello=olleh.
 ## Adding execution permissions to the current directory recursively.
+## Create a directory with permissions.
