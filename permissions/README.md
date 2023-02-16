@@ -14,3 +14,4 @@
 ## Create a directory with permissions.
 ## Change the group owner for the hello file.
 ## Changing user and group for files and directories.
+## Changing user and group through a link.
