@@ -8,10 +8,11 @@
 ## Adding execution permissions to hello.
 ## Adding execution permissions to the whole file hello.
 ## Adding permissions only to the group of others.
-## Setting a file mode to hello.
+## Copy permissions from olleh to hello.
 ## Setting a file mode to hello=olleh.
 ## Adding execution permissions to the current directory recursively.
 ## Create a directory with permissions.
 ## Change the group owner for the hello file.
 ## Changing user and group for files and directories.
 ## Changing user and group through a link.
+## Change the user only if it is the same as the one being assigned in the --from.
