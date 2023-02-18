@@ -15,3 +15,4 @@
 ## 13. Sort a list of words without repeating.
 ## 14. painting the root pattern of the user file.
 ## 15. Counts the number of lines of the bin pattern.
+## 16. Displays the lines of the root pattern and three at the end.
