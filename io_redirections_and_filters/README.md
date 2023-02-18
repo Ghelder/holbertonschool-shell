@@ -14,3 +14,4 @@
 ## 12. shows the most current files in the directory where we are.
 ## 13. Sort a list of words without repeating.
 ## 14. painting the root pattern of the user file.
+## 15. Counts the number of lines of the bin pattern.
