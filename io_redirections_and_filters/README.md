@@ -11,3 +11,4 @@
 ## 9. Duplicates the last line of a file.
 ## 10. Recursively deletes all files with .js extension.
 ## 11. makes a count of the sub-addresses and hidden ones.
+## 12. shows the most current files in the directory where we are.
