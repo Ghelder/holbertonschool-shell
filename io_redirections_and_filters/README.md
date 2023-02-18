@@ -10,3 +10,4 @@
 ## 8. Writes the output of a command, if it exists it is overwritten otherwise it creates it.
 ## 9. Duplicates the last line of a file.
 ## 10. Recursively deletes all files with .js extension.
+## 11. makes a count of the sub-addresses and hidden ones.
