@@ -9,3 +9,4 @@
 ## 7. Creates the file and content with characters.
 ## 8. Writes the output of a command, if it exists it is overwritten otherwise it creates it.
 ## 9. Duplicates the last line of a file.
+## 10. Recursively deletes all files with .js extension.
