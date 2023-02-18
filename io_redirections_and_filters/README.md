@@ -13,3 +13,4 @@
 ## 11. makes a count of the sub-addresses and hidden ones.
 ## 12. shows the most current files in the directory where we are.
 ## 13. Sort a list of words without repeating.
+## 14. painting the root pattern of the user file.
