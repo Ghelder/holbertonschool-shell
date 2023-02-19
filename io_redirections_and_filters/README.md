@@ -20,3 +20,4 @@
 ## 18. Displays all lines of a file with the first letter capitalized.
 ## 19. Replace characters.
 ## 20. Removes the letter c.
+## 21. invert a word.
