@@ -10,3 +10,4 @@
 ## 8. Performs an addition operation with a stored variable.
 ## 9. Prints the result of a division.
 ## 10. Prints the result of a power.
+## 11. converts a base 2 number to base 10.
