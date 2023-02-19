@@ -5,3 +5,4 @@
 ## 3. Count the number of directories in the PATH.
 ## 4. List of all global variables.
 ## 5. List of all local variables.
+## 6. Creates a local variable.
