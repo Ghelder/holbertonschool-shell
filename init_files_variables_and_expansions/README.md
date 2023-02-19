@@ -7,3 +7,4 @@
 ## 5. List of all local variables.
 ## 6. Creates a local variable.
 ## 7. Creates a global variable.
+## 8. Performs an addition operation with a stored variable.
