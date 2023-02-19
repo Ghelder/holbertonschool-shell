@@ -12,3 +12,4 @@
 ## 10. Prints the result of a power.
 ## 11. converts a base 2 number to base 10.
 ## 12. Print a couple of letters of possible combinations.
+## 13. Prints number with two decimal places.
