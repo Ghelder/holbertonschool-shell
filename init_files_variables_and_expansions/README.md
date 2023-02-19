@@ -9,3 +9,4 @@
 ## 7. Creates a global variable.
 ## 8. Performs an addition operation with a stored variable.
 ## 9. Prints the result of a division.
+## 10. Prints the result of a power.
