@@ -6,3 +6,4 @@
 ## 4. List of all global variables.
 ## 5. List of all local variables.
 ## 6. Creates a local variable.
+## 7. Creates a global variable.
