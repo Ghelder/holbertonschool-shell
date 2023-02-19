@@ -23,3 +23,4 @@
 ## 21. invert a word.
 ## 22. Displays all users and their home directories, sorted.
 ## 23. Empty casks make the most noise.
+## 24. Lists all files with .gif extension in the current directory and all its subdirectories. 
