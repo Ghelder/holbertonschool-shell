@@ -18,3 +18,4 @@
 ## 16. Displays the lines of the root pattern and three at the end.
 ## 17. Displays lines of the user file that are not contained in the bin pattern.
 ## 18. Displays all lines of a file with the first letter capitalized.
+## 19. Replace characters.
