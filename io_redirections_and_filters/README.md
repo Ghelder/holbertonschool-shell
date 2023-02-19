@@ -19,3 +19,4 @@
 ## 17. Displays lines of the user file that are not contained in the bin pattern.
 ## 18. Displays all lines of a file with the first letter capitalized.
 ## 19. Replace characters.
+## 20. Removes the letter c.
