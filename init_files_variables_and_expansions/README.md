@@ -14,3 +14,4 @@
 ## 12. Print a couple of letters of possible combinations.
 ## 13. Prints number with two decimal places.
 ## 14. converts a base 10 number to base 16.
+## 15. Encodes and decodes text using Rot13 encoding. 
