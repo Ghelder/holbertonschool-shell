@@ -15,3 +15,4 @@
 ## 13. Prints number with two decimal places.
 ## 14. converts a base 10 number to base 16.
 ## 15. Encodes and decodes text using Rot13 encoding. 
+## 16. Prints every other line of the entry, starting with the first line. 
